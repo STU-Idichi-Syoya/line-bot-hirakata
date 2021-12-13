@@ -1,0 +1,2 @@
+# LineBot-hirakata
+バックエンドはGolang,フロントはNextjsです．
